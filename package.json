@@ -4,6 +4,7 @@
   "author": "Quenk Technologies <info@quenk.com>",
   "description": "a command line option parser",
   "main": "docopt.js",
+  "files": ["index.js"],
   "keywords": [
     "command",
     "options",
